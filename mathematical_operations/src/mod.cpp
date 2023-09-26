@@ -1,3 +1,5 @@
+//This gives mod of a and b.
+
 #include <iostream>
 
 void mod(int a, int b){
