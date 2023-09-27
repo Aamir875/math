@@ -2,6 +2,6 @@
 #include <iostream>
 
 void multiply(int a, int b){
-//Print a*b.
+//hello.
 std::cout<<"multiply is "<<a*b;
 }
