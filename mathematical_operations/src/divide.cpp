@@ -1,3 +1,5 @@
+//This function will perform division.
+
 #include <iostream>
 
 void divide(int a, int b){
